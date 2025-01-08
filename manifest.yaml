@@ -1,7 +1,7 @@
 name: rdkcentral
 plugins:
   docker:
-    version: 1.0.0
+    version: feature/BWDO-106_Update_SC_docker_with_yaml_config
     remote: git@github.com:comcast-sky/sc-docker.git
   plugin2:
     version: 3.0.0
