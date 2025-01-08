@@ -1,0 +1,8 @@
+name: rdkcentral
+plugins:
+  docker:
+    version: 1.0.0
+    remote: git@github.com:comcast-sky/sc-docker.git
+  plugin2:
+    version: 3.0.0
+    remote: git@github.com:example
